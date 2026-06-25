@@ -1,0 +1,27 @@
+YouTube Video Downloader
+
+A simple Python application that downloads YouTube videos using the pytubefix library.
+
+Features
+
+- Download YouTube videos
+- High-quality video download
+- Easy to use
+- Command-line interface
+
+Technologies Used
+
+- Python
+- pytubefix
+
+Installation
+
+pip install -r requirements.txt
+
+Run
+
+python main.py
+
+Author
+
+Python Mini Project
